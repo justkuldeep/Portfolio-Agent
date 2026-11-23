@@ -1,0 +1,151 @@
+[
+  {
+    "question": "Is Kuldeep available for an internship?",
+    "expected_ids": [
+      "availability_status",
+      "faq_available"
+    ]
+  },
+  {
+    "question": "When will he graduate?",
+    "expected_ids": [
+      "education_btech",
+      "faq_graduation",
+      "availability_status"
+    ]
+  },
+  {
+    "question": "What is his CGPA?",
+    "expected_ids": [
+      "education_btech",
+      "faq_academics"
+    ]
+  },
+  {
+    "question": "How many users does SAISA have?",
+    "expected_ids": [
+      "project_saisa_results",
+      "faq_saisa_real_data"
+    ]
+  },
+  {
+    "question": "Can class coordinators share attendance with parents?",
+    "expected_ids": [
+      "project_saisa_features"
+    ]
+  },
+  {
+    "question": "Is SAISA deployed?",
+    "expected_ids": [
+      "project_saisa_status_testing",
+      "faq_saisa_real_data",
+      "faq_deployed"
+    ]
+  },
+  {
+    "question": "How did he test SAISA?",
+    "expected_ids": [
+      "project_saisa_status_testing",
+      "faq_saisa_real_data"
+    ]
+  },
+  {
+    "question": "What tech stack does SAISA use?",
+    "expected_ids": [
+      "project_saisa_stack_role"
+    ]
+  },
+  {
+    "question": "Which vector database has he used?",
+    "expected_ids": [
+      "skills_databases",
+      "project_youtube_rag_pipeline"
+    ]
+  },
+  {
+    "question": "Which embedding model does the YouTube RAG project use?",
+    "expected_ids": [
+      "project_youtube_rag_pipeline"
+    ]
+  },
+  {
+    "question": "Does he have any work experience?",
+    "expected_ids": [
+      "experience_work",
+      "faq_experience"
+    ]
+  },
+  {
+    "question": "What certifications does he have?",
+    "expected_ids": [
+      "certifications",
+      "faq_certifications"
+    ]
+  },
+  {
+    "question": "What is BUILD THIS TO LEARN THAT?",
+    "expected_ids": [
+      "project_build_to_learn_overview"
+    ]
+  },
+  {
+    "question": "Who is on Team Zenith?",
+    "expected_ids": [
+      "project_build_to_learn_overview",
+      "experience_collaboration"
+    ]
+  },
+  {
+    "question": "What is TaskFlow?",
+    "expected_ids": [
+      "project_taskflow_pwa",
+      "faq_taskflow"
+    ]
+  },
+  {
+    "question": "How can I contact him?",
+    "expected_ids": [
+      "contact_links",
+      "faq_contact"
+    ]
+  },
+  {
+    "question": "Tell me about Ghumo India",
+    "expected_ids": [
+      "project_ghumo_india"
+    ]
+  },
+  {
+    "question": "What roles is he looking for?",
+    "expected_ids": [
+      "career_goals",
+      "faq_target_role"
+    ]
+  },
+  {
+    "question": "Where did he go to school?",
+    "expected_ids": [
+      "education_school"
+    ]
+  },
+  {
+    "question": "Has he worked with AI agents?",
+    "expected_ids": [
+      "skills_agents",
+      "faq_agents"
+    ]
+  },
+  {
+    "question": "Does he know Docker?",
+    "expected_ids": [
+      "skills_frameworks_tools"
+    ]
+  },
+  {
+    "question": "What is his strongest project?",
+    "expected_ids": [
+      "faq_best_project",
+      "projects_overview"
+    ]
+  }
+]
